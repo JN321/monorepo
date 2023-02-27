@@ -1,5 +1,5 @@
 {
-  "name": "@moborepo/blog_a",
+  "name": "moborepo_blog_a",
   "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
@@ -10,5 +10,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "1bbf17ef66b8626e913eb8a16866f19c610f0ce9"
+  "gitHead": "4ecf12f76816c41a892abb3424fef5eb53af7c15"
 }
