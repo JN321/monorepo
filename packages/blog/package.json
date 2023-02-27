@@ -1,10 +1,14 @@
 {
-  "name": "blog",
+  "name": "@moborepo/blog_a",
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "publishConfig": {
+		"access": "public",
+		"directory": ""
+	}
 }

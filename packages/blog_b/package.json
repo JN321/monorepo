@@ -1,6 +1,10 @@
 {
-  "name": "blog_b",
+  "name": "@moborepo/blog_b",
   "version": "1.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+		"access": "public",
+		"directory": ""
+	}
 }
