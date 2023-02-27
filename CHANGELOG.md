@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.4](https://github.com/JN321/monorepo/compare/v1.0.3...v1.0.4) (2023-02-27)
+
+
+### Bug Fixes
+
+* 细节调整 ([942872c](https://github.com/JN321/monorepo/commit/942872c85a9e3f175fd68862903148549a6cc8ef))
+
+
+
+
+
 ## [1.0.3](https://github.com/JN321/monorepo/compare/v1.0.2...v1.0.3) (2023-02-27)
 
 
