@@ -8,7 +8,7 @@
     "react-dom": "^18.2.0"
   },
   "publishConfig": {
-    "access": "public",
-    "directory": ""
-  }
+    "access": "public"
+  },
+  "gitHead": "1bbf17ef66b8626e913eb8a16866f19c610f0ce9"
 }
